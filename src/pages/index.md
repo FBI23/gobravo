@@ -5,11 +5,11 @@ sections:
       - label: Learn More
         url: /features
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Gobravo a safety app that helps you receive emergency assistance when you
+      most need it.
     image: images/hero.png
     section_id: hero
-    title: This Is A Big Hero Headline
+    title: Stop crime. Stop corruption. Together.
     type: section_hero
   - bg: gray
     featureslist:
