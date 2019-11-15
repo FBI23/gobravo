@@ -71,7 +71,7 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: Get Started
+      - label: GET APP
         url: /signup
     section_id: call-to-action
     subtitle: This is an optional description for the call to action block.
