@@ -1,9 +1,9 @@
 {
   "title": "Gobravo",
-  "palette": "blue",
+  "palette": "green",
   "header": {
     "title": "Gobravo | Home",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/gobravo_logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "Gobravo Tagline",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/gobravo_symbol.png",
     "has_social": true,
     "content": "&copy; Gobravo 2019",
     "links": [],
