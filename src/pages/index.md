@@ -7,7 +7,7 @@ sections:
     content: >-
       Gobravo a safety app that helps you receive emergency assistance when you
       most need it.
-    image: images/hero.png
+    image: /images/hero1compressed.png
     section_id: hero
     title: Stop crime. Stop corruption. Together.
     type: section_hero
