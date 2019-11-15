@@ -66,11 +66,11 @@ sections:
     title: Testimonials
     type: section_reviews
   - actions:
-      - label: GET APP
-        url: /signup
+      - label: GET STARTED
+        url: 'https://app.gobravo.co'
     section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: Install App Now
+    subtitle: Get safety at the tap of a button
+    title: Get Gobravo now
     type: section_cta
   - bg: gray
     section_id: recent-posts
