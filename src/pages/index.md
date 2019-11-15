@@ -19,7 +19,7 @@ sections:
         content: >-
           Share your location at any point in time. Alert your loved ones and
           emergency services.
-        image: /images/mask-group.png
+        image: /images/final1comp.png
         title: Sharing your location ensures your safety
       - actions:
           - label: Learn More
@@ -27,7 +27,7 @@ sections:
         content: >-
           Our easy to use interface, places help, at literally a touch of a
           button
-        image: /images/mask-group-2.png
+        image: /images/final2comp.png
         title: Help at the touch of a button
       - actions:
           - label: Learn More
@@ -35,7 +35,7 @@ sections:
         content: >-
           Receive useful information, about your community backed by data and
           insights
-        image: /images/mask-group-3.png
+        image: /images/final3comp.png
         title: 'Not only safety, but community information'
     section_id: features
     subtitle: 'Gobravo provides slick features, putting your safety first.'
