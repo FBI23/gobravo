@@ -3,7 +3,7 @@
   "palette": "green",
   "header": {
     "title": "Gobravo | Home",
-    "logo_img": "/images/gobravo_logo.png",
+    "logo_img": "/images/gobravo_full-logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
