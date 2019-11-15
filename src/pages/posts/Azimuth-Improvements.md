@@ -11,4 +11,4 @@ template: post
 ---
 Created for the people, by the people. Gobravo was created as a way to improve the lives of everyday Brazilians.
 
-Today, we have launched our transparent, decentralised safety and alerting app.
+Today, we have launched our transparent, decentralised safety and alerting web app.
