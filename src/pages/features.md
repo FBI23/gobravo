@@ -1,41 +1,38 @@
 ---
 title: Features
 sections:
-  - type: section_content
-    section_id: features
-    title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
-    bg: gray
-    actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
-        url: '#'
-  - type: section_cta
-    section_id: call-to-action
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
+  - actions:
       - label: Get Started
-        url: '#'
+        url: 'https://app.gobravo.co'
+    bg: gray
+    content: >-
+      Gobravo offers many key features, that put your safety and transparency
+      first. 
+
+
+      * Intuitive panic button
+
+      * Notify your loved ones and those nearby
+
+      * Immediately alert emergency services
+
+
+      Any many more features....
+    image: /images/features.png
+    section_id: features
+    title: Safety and transparency at a tap of a button.
+    type: section_content
+  - actions:
+      - label: Get Started
+        url: 'https://app.gobravo.co'
+    section_id: call-to-action
+    subtitle: ''
+    title: 'Put your safety first, try Gobravo now.'
+    type: section_cta
 menus:
   main:
     title: Features
     weight: 2
 template: landing
 ---
+
