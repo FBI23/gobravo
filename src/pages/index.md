@@ -17,33 +17,28 @@ sections:
           - label: Learn More
             url: /features
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        image: images/feature1.png
-        title: The Best Feature of Your Services
+          Share your location at any point in time. Alert your loved ones and
+          emergency services.
+        image: /images/dries-de-schepper-jqv-xzmiz2e-unsplash.jpg
+        title: Sharing your location ensures your safety
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        image: images/feature2.png
-        title: Awesome Feature of Your Services
+          Our easy to use interface, places help, at literally a touch of a
+          button
+        image: /images/nesa-by-makers-n6e9cnomxek-unsplash.jpg
+        title: Help at the touch of a button
       - actions:
           - label: Learn More
             url: /features
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        image: images/feature3.png
-        title: Cool Feature of Your Services
+          Receive useful information, about your community backed by data and
+          insights
+        image: /images/ragnar-vorel-ubojlcpckvw-unsplash.jpg
+        title: 'Not only safety, but community information'
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Gobravo provides slick features, putting your safety first.'
     title: Features
     type: section_features
   - bg: white
